@@ -2,7 +2,9 @@
 
 📊 Sales Dashboard - Tableau
 
-This is an interactive Sales Dashboard built using Tableau that visualizes key sales metrics to support data-driven decision making. The dashboard provides insights into:
+This is an interactive Sales Dashboard built using Tableau that visualizes key sales metrics to support data-driven decision making.
+
+The dashboard provides insights into:
 
 📈 Total Sales Over Time
 
@@ -13,6 +15,8 @@ This is an interactive Sales Dashboard built using Tableau that visualizes key s
 🎯 Top Performing Sales Reps
 
 📅 Monthly and Quarterly Trends
+
+
 
 🔧 Tools Used
 
